@@ -36,3 +36,6 @@ def predict_crop(request: CropPredictionRequest):
     
     return {'predicted_crop': crop}
 
+if __name__ == '__main__':
+    uvicorn.run(app, host='127.0.0.1', port=8000)
+
