@@ -37,7 +37,7 @@ This project is a FastAPI-based machine learning model that predicts the most su
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/crop-prediction-api.git
+    git clone https://github.com/Abhigyan-RA/Crop-prediction.git
     cd crop-prediction-api
     ```
 
