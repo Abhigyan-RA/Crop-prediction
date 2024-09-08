@@ -1,6 +1,6 @@
-# Crop Prediction API
+# NPK Prediction API
 
-This project is a FastAPI-based machine learning model that predicts the most suitable crop based on temperature, humidity, and rainfall input. The API is deployed and can be consumed by mobile or web applications for crop prediction purposes.
+This project is a FastAPI-based machine learning model that predicts the NPK based on temperature, humidity,crop type and rainfall input. The API is deployed and can be consumed by mobile or web applications for crop prediction purposes.
 
 ## Table of Contents
 
